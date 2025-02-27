@@ -1,13 +1,14 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
+<img align="right" src="https://github.com/user-attachments/assets/1f0427e6-aa1a-413a-88ad-4d25b049c76f?raw=true" height="150" />
 
 <p align="left">My name is Felipe</p>
 
 ###
 
 <h2 align="left">About me</h2>
-<img align="right" src="https://github.com/user-attachments/assets/1f0427e6-aa1a-413a-88ad-4d25b049c76f?raw=true" height="150" />
+
 ###
 
 <p align="left">📚 I'm currently learning PHP, LINUX, JAVA</p>
