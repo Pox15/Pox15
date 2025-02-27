@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img align="right" src="https://github.com/user-attachments/assets/1f0427e6-aa1a-413a-88ad-4d25b049c76f?raw=true" height="300" width="200" />
+  <img align="top right" src="https://github.com/user-attachments/assets/1f0427e6-aa1a-413a-88ad-4d25b049c76f?raw=true" height="300" width="200" />
 
 
 </div>
