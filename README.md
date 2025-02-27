@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img src="https://github.com/user-attachments/assets/1f0427e6-aa1a-413a-88ad-4d25b049c76f?raw=true" 
-     style="position: absolute; top: 0; right: 300; height: 100px;" />
+     style="position: absolute; top: 0; right: 1000; height: 100px;" />
 
 
 
